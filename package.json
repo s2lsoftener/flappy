@@ -1,0 +1,31 @@
+{
+    "name": "flappy",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "webpack serve --open",
+      "build": "webpack --env production"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@typescript-eslint/eslint-plugin": "^4.22.1",
+      "@typescript-eslint/parser": "^4.22.1",
+      "eslint": "^7.26.0",
+      "eslint-config-prettier": "^8.3.0",
+      "eslint-plugin-prettier": "^3.4.0",
+      "html-webpack-plugin": "^5.3.1",
+      "prettier": "^2.2.1",
+      "ts-loader": "^9.1.2",
+      "typescript": "^4.3.1-rc",
+      "webpack": "^5.36.2",
+      "webpack-cli": "^4.7.0",
+      "webpack-dev-server": "^3.11.2"
+    },
+    "dependencies": {
+      "pixi.js": "^6.0.2"
+    }
+  }
+  
