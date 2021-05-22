@@ -13,3 +13,7 @@ This repo's package configs might be useful for a later project I guess.
 ```bash
 pnpm install
 ```
+
+## Netlify
+
+https://reverent-joliot-93f173.netlify.app/
